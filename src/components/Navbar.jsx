@@ -10,7 +10,7 @@ function Navbar() {
                 <AiOutlineShoppingCart />
             </div>
             <div>
-                <div></div>
+                <div>logout</div>
                 <div></div>
             </div>
         </div>
